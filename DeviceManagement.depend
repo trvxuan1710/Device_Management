@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1735066088 source:d:\ctdl\btl\devicemanagement\device.cpp
+	"menu.h"
+	"Device.h"
+	"Technician.h"
+	"MaintenanceSchedule.h"
+
+1734901579 d:\ctdl\btl\devicemanagement\device.h
+	<iostream>
+	<cstring>
+
+1733993430 source:d:\ctdl\btl\devicemanagement\main.cpp
+	<iostream>
+	<cstring>
+	"Device.h"
+	"MaintenanceLog.h"
+	"MaintenanceSchedule.h"
+	"Technician.h"
+	"menu.h"
+
+1735269532 source:d:\ctdl\btl\devicemanagement\maintenancelog.cpp
+	"MaintenanceLog.h"
+	"Technician.h"
+	"MaintenanceSchedule.h"
+	"Device.h"
+	"menu.h"
+
+1735267832 d:\ctdl\btl\devicemanagement\maintenancelog.h
+	<iostream>
+	<cstring>
+
+1735361040 source:d:\ctdl\btl\devicemanagement\maintenanceschedule.cpp
+	"menu.h"
+	"MaintenanceSchedule.h"
+	"Device.h"
+	"Technician.h"
+	"MaintenanceLog.h"
+
+1735323233 d:\ctdl\btl\devicemanagement\maintenanceschedule.h
+	<iostream>
+	<cstring>
+	<fstream>
+
+1735360218 source:d:\ctdl\btl\devicemanagement\technician.cpp
+	"Technician.h"
+	"MaintenanceSchedule.h"
+	"Device.h"
+	"menu.h"
+
+1734901121 d:\ctdl\btl\devicemanagement\technician.h
+	<iostream>
+	<cstring>
+
+1735410213 d:\ctdl\btl\devicemanagement\menu.h
+	<iostream>
+	<ctime>
+	<cstring>
+
+1735411762 source:d:\ctdl\btl\devicemanagement\menu.cpp
+	"Device.h"
+	"MaintenanceLog.h"
+	"MaintenanceSchedule.h"
+	"Technician.h"
+	"menu.h"
+

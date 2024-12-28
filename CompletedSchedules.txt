@@ -1,0 +1,13 @@
+Lịch Bảo Trì Hoàn Thành:
+----------------------------------------
+ID Lịch Bảo Trì: HIS00001
+ID Thiết Bị: DEV00001
+Ngày Hoàn Thành: 28/12/2024
+Chi Phí: 1e+09
+Chi Tiết: 1
+Thông Tin Thiết Bị:
+	Tên: a | Vị Trí: 1
+Danh Sách Kỹ Thuật Viên:
+	ID: TECH00001 | Tên: a | Liên Hệ: 1
+	ID: TECH00002 | Tên: b | Liên Hệ: 2
+----------------------------------------
